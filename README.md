@@ -1,6 +1,8 @@
 # crispr-host-prediction
 
-### Close the repo
+Below is a step-by-step walkthrough of using the CRISPR database to assign host lineages to viral genome sequences
+
+### Clone the repo
 ```bash
 wget https://github.com/jgi-microbiome-data-science/crispr-host-prediction
 cd crispr-host-prediction
